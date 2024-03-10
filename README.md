@@ -1,5 +1,5 @@
 # Linux-Good-Apps
-本人备份的Linux好用的软件列表
+备份的Linux好用的软件列表
 
 ## 一、音乐
 - **lx-music（洛雪音乐）**
@@ -37,4 +37,16 @@ sudo pacman -S steam
 
   [Catppuccin]: https://github.com/catppuccin/catppuccin
 
-  
+
+## 五、杂项
+
+- 命令行翻译软件 Wudao-dict
+
+[Wudao-Dict-官方项目连接](https://github.com/ChestnutHeng/Wudao-dict/)
+
+> Arch linux 下安装：
+
+```bash
+yay -S wudao-dict-git
+```
+
