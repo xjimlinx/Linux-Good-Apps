@@ -35,7 +35,7 @@ sudo pacman -S steam
 
 - **Catppuccin**
 
-  [Catppuccin]: https://github.com/catppuccin/catppuccin
+[Catppuccin](https://github.com/catppuccin/catppuccin)
 
 
 ## 五、杂项
