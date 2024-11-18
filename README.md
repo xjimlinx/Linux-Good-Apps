@@ -1,4 +1,15 @@
+---
+title: Linux Good Apps
+author: Xein
+categories:
+  - Linux
+tag:
+  - Linux
+description: 备份的Linux的常用、好用软件列表
+---
+
 # Linux-Good-Apps
+
 备份的Linux好用的软件列表
 
 ## 一、音乐
@@ -11,7 +22,7 @@ yay -S lx-music-desktop-bin
 ```
 
 ## 二、文献（文档查看）、笔记、Todo
-- **Zotero**
+- **Zotero** 文献查看
 
 > Arch linux 下安装：
 
@@ -20,6 +31,24 @@ sudo pacman -S zotero-bin
 ```
 插件：
 [划句翻译插件-zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
+
++ Todo
+
+  + 首先是microsoft todo 的第三方app
+
+    + kuro
+
+      ```bash
+      yay -S kuro-bin
+      ```
+
+  + 然后是收入到KDE官方的Merkuro
+
+    + Merkuro
+
+      ```bash
+      sudo pacman -S merkuro
+      ```
 
 ## 三、游戏
 
