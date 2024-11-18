@@ -10,7 +10,7 @@
 yay -S lx-music-desktop-bin 
 ```
 
-## 二、文献（文档查看）
+## 二、文献（文档查看）、笔记、Todo
 - **Zotero**
 
 > Arch linux 下安装：
@@ -32,6 +32,7 @@ sudo pacman -S steam
 ```
 
 - **Xbox 手柄无线适配器驱动**
+
 因为作者最新的xone驱动无法正常使用，所以使用老版本的驱动
 
 仓库地址
@@ -58,7 +59,9 @@ sudo pacman -S steam
 > Arch linux 下安装：
 
 ```bash
+# wudao-dict
 yay -S wudao-dict-git
+# kd
 yay -S kd
 ```
 
