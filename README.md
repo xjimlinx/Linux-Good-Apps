@@ -2,6 +2,7 @@
 title: Linux Good Apps
 author: Xein
 categories:
+  - 操作系统
   - Linux
 tag:
   - Linux
@@ -75,7 +76,7 @@ sudo pacman -S steam
 [Catppuccin](https://github.com/catppuccin/catppuccin)
 
 
-## 五、杂项
+## 五、翻译
 
 - 命令行查词软件 Wudao-dict
 
@@ -94,4 +95,13 @@ yay -S wudao-dict-git
 yay -S kd
 ```
 
-**kd 会比 wd 快很多**
+**kd 会比 wd 快很多**(也有可能是因为用的是旧版wd,建议去wd官网使用编译安装)
+
+## 六、绘图
+
++ drawio 开源思维导图软件（用Electron实现的）无需联网本地跑
+
+```bash
+sudo pacman -S drawio-desktop-bin
+```
+
