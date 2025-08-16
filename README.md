@@ -15,11 +15,15 @@ description: 备份的Linux的常用、好用软件列表
 
 ## 一、音乐
 - **lx-music（洛雪音乐）**
+- **netease-cloud-music-gtk4（网易云音乐三方客户端）**
+- **moekoemusic-bin（酷狗音乐三方客户端）**
 
 > Arch linux 下安装：
 
 ```bash
-yay -S lx-music-desktop-bin 
+yay -S lx-music-desktop-bin
+yay -S netease-cloud-music-gtk4
+yay -S moekoemusic-bin
 ```
 
 ## 二、文献（文档查看）、笔记、Todo
@@ -50,7 +54,18 @@ sudo pacman -S zotero-bin
       ```bash
       sudo pacman -S merkuro
       ```
-
++ 笔记
+  + Markdown
+    + Marknote
+    
+      ```bash
+      sudo pacman -S marknote
+      ```
+    + Marktext
+    
+      ```bash
+      yay -S marktext
+      ```
 ## 三、游戏
 
 - **Steam**
@@ -74,6 +89,10 @@ sudo pacman -S steam
 - **Catppuccin**
 
 [Catppuccin](https://github.com/catppuccin/catppuccin)
+
+- **Moe**
+
+KDE主题商店下载
 
 
 ## 五、翻译
